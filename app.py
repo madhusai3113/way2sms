@@ -1,5 +1,5 @@
 
-# A very simple Flask Hello World app for you to get started with...
+# A very simple Flask  app for you to get started with...
 
 from flask import Flask
 from datetime import datetime
